@@ -1,0 +1,7 @@
+n=int(input("Enter a number:"))
+if n>0:
+    
+    print("Give number is positive")
+else:
+    print("Given number is negative")
+    
